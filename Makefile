@@ -1,8 +1,11 @@
 install:
 	poetry install
 
-brain-games: # Запуск проекта
+brain-games: # Запуск проекта(приветствие)
 	poetry run brain-games
+
+brain-even: # Четное нечетное
+	poetry run brain-even
 
 build:
 	poetry build
