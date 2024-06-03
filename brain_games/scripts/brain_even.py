@@ -7,29 +7,30 @@ def welcome_user():
     print("Welcome to the Brain Games!")
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
+    return name
 
 
-def even_game():
+def even_game(name):
     print('Answer "yes" if the number is even, otherwise answer "no".')
     count = 0
     while count < 3:
         number = randint(1, 100)
         print(f'Question: {number}')
         answer = prompt.string('Your answer: ')
-        if number % 2 == 0 and answer == 'yes':
-            print('Correct!')
-            count += 1
-        elif number % 2 != 0 and answer == 'no':
+        correct_answer = 'yes' if number % 2 == 0 else 'no'
+        if answer == correct_answer:
             print('Correct!')
             count += 1
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was 'no'.")
+            print(f"'{answer}' is wrong answer ;(. Correct answer was '{correct_answer}'.")
+            print(f"Let's try again, {name}!")
             return
+    print(f'Congratulations, {name}!')
 
 
 def main():
-    welcome_user()
-    even_game()
+    name = welcome_user()
+    even_game(name)
 
 
 if __name__ == '__main__':
