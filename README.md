@@ -4,4 +4,4 @@
 <a href="https://codeclimate.com/github/gornah/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/a36b29f34c87277cf136/maintainability" /></a>
 
 ### asciinema record brain-even
-https://asciinema.org/a/oRgYBTlTz30O0ZdrOUGZRXQie
+https://asciinema.org/a/5ddnRfz0Nlnr50PN1VcW5qw0c
