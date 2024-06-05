@@ -7,6 +7,9 @@ brain-games: # Запуск проекта(приветствие)
 brain-even: # Четное нечетное
 	poetry run brain-even
 
+brain-calc:
+	poetry run brain-calc
+
 build:
 	poetry build
 
