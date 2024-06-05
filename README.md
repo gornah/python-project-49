@@ -5,3 +5,6 @@
 
 ### asciinema record brain-even
 https://asciinema.org/a/5ddnRfz0Nlnr50PN1VcW5qw0c
+
+### asciinema record brain-calc
+https://asciinema.org/a/ESx76gLxUBYh4HniLcxwsnQob
