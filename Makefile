@@ -10,6 +10,9 @@ brain-even: # Четное нечетное
 brain-calc:
 	poetry run brain-calc
 
+brain-gcd:
+	poetry run brain-gcd
+
 build:
 	poetry build
 
