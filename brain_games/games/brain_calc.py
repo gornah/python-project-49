@@ -10,4 +10,5 @@ def game_calc():
     correct_answer = eval(f'{x} {operation} {y}')
     return question, correct_answer
 
+
 game_rule = 'What is the result of the expression?'

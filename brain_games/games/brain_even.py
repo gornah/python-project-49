@@ -7,4 +7,5 @@ def even_game():
     correct_answer = 'yes' if number % 2 == 0 else 'no'
     return question, correct_answer
 
+
 game_rule = 'Answer "yes" if the number is even, otherwise answer "no".'
