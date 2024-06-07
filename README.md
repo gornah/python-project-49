@@ -11,3 +11,6 @@ https://asciinema.org/a/ESx76gLxUBYh4HniLcxwsnQob
 
 ### asciinema record brain-gcd
 https://asciinema.org/a/BsFc8hq3b0pJP8qQfySshIJd6
+
+### asciinema record brain-progression
+https://asciinema.org/a/ts2XaRwO4zVS7ewlNJZmCMqsb
