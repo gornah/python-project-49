@@ -1,7 +1,7 @@
 from random import randint
 
 
-def even_game():
+def game_even():
     number = randint(1, 100)
     question = (f'Question: {number}')
     correct_answer = 'yes' if number % 2 == 0 else 'no'
