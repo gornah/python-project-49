@@ -14,7 +14,7 @@ def game_progression():
     index = randint(0, len(progression) - 1)
     correct_answer = progression.pop(index)
     progression.insert(index, '..')
-    question = ' '.join(map(str, progression))
+    question = 'Question: ' + ' '.join(map(str, progression))
     return question, correct_answer
 
 
