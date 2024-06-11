@@ -17,3 +17,6 @@ https://asciinema.org/a/ts2XaRwO4zVS7ewlNJZmCMqsb
 
 ### asciinema record brain-prime
 https://asciinema.org/a/dCDqiDYiV77KclDUqiP99OtEU
+
+## test script
+<script id="asciicast-even" src="https://asciinema.org/a/5ddnRfz0Nlnr50PN1VcW5qw0c" async></script>
