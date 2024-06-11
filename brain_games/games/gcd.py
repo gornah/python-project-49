@@ -19,4 +19,4 @@ def game():
     return question, correct_answer
 
 
-game_rule = 'Find the greatest common divisor of given numbers.'
+GAME_RULE = 'Find the greatest common divisor of given numbers.'

@@ -31,4 +31,4 @@ def game():
     return question, correct_answer
 
 
-game_rule = 'What is the result of the expression?'
+GAME_RULE = 'What is the result of the expression?'

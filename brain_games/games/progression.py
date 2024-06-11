@@ -19,4 +19,4 @@ def game():
     return question, correct_answer
 
 
-game_rule = 'What number is missing in the progression?'
+GAME_RULE = 'What number is missing in the progression?'
