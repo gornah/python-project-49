@@ -9,7 +9,8 @@ def generate_progression():
     return progression_list
 
 
-def game_progression():
+# progression game
+def game():
     progression = generate_progression()
     index = randint(0, len(progression) - 1)
     correct_answer = progression.pop(index)

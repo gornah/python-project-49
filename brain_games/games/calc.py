@@ -2,7 +2,8 @@ from random import randint
 from random import choice
 
 
-def game_calc():
+# calc game
+def game():
     x = randint(5, 10)
     y = randint(1, 5)
     operation = choice(['+', '-', '*'])

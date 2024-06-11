@@ -11,7 +11,8 @@ def is_prime(num):
     return True
 
 
-def game_prime():
+# prime game
+def game():
     num = randint(2, 21)
     question = (f'Question: {num}')
     correct_answer = 'yes' if is_prime(num) else 'no'

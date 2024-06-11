@@ -10,7 +10,8 @@ def gcd(x, y):
     return x + y
 
 
-def game_gcd():
+# gcd game
+def game():
     x = randint(1, 50)
     y = randint(1, 50)
     question = (f'Question: {x} {y}')

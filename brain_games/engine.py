@@ -8,11 +8,13 @@ def welcome_user():
     return name
 
 
-def run_game(game, name):
+def run_game(module):
+    name = welcome_user()
+    print(module.game_rule)
     count = 0
     game_round = 3
     while count < game_round:
-        question, correct_answer = game()
+        question, correct_answer = module.game()
         print(question)
         answer = input('Your answer: ')
         if answer == str(correct_answer):
