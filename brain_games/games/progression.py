@@ -1,5 +1,7 @@
 from random import randint
 
+GAME_RULE = 'What number is missing in the progression?'
+
 
 def generate_progression():
     start = randint(1, 10)
@@ -9,7 +11,6 @@ def generate_progression():
     return progression_list
 
 
-# progression game
 def game():
     progression = generate_progression()
     index = randint(0, len(progression) - 1)
@@ -17,6 +18,3 @@ def game():
     progression.insert(index, '..')
     question = 'Question: ' + ' '.join(map(str, progression))
     return question, correct_answer
-
-
-GAME_RULE = 'What number is missing in the progression?'
