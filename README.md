@@ -3,6 +3,9 @@
 
 <a href="https://codeclimate.com/github/gornah/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/a36b29f34c87277cf136/maintainability" /></a>
 
+[![asciicast](https://asciinema.org/a/664311.svg)](https://asciinema.org/a/664311)
+
+
 ### asciinema record brain-even
 https://asciinema.org/a/5ddnRfz0Nlnr50PN1VcW5qw0c
 
