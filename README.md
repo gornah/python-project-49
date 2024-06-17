@@ -3,23 +3,15 @@
 
 <a href="https://codeclimate.com/github/gornah/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/a36b29f34c87277cf136/maintainability" /></a>
 
+### Asciinema:
 [![asciicast](https://asciinema.org/a/664311.svg)](https://asciinema.org/a/664311)
 
+[![asciicast](https://asciinema.org/a/664312.svg)](https://asciinema.org/a/664312)
 
-### asciinema record brain-even
-https://asciinema.org/a/5ddnRfz0Nlnr50PN1VcW5qw0c
+[![asciicast](https://asciinema.org/a/664313.svg)](https://asciinema.org/a/664313)
 
-### asciinema record brain-calc
-https://asciinema.org/a/ESx76gLxUBYh4HniLcxwsnQob
+[![asciicast](https://asciinema.org/a/664316.svg)](https://asciinema.org/a/664316)
 
-### asciinema record brain-gcd
-https://asciinema.org/a/BsFc8hq3b0pJP8qQfySshIJd6
+[![asciicast](https://asciinema.org/a/664317.svg)](https://asciinema.org/a/664317)
 
-### asciinema record brain-progression
-https://asciinema.org/a/ts2XaRwO4zVS7ewlNJZmCMqsb
-
-### asciinema record brain-prime
-https://asciinema.org/a/dCDqiDYiV77KclDUqiP99OtEU
-
-## test script
-<script id="asciicast-even" src="https://asciinema.org/a/5ddnRfz0Nlnr50PN1VcW5qw0c" async></script>
+[![asciicast](https://asciinema.org/a/664318.svg)](https://asciinema.org/a/664318)
